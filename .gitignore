@@ -220,4 +220,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Custom ignoring
-data/epic_state.json
+data/
+.idea/
